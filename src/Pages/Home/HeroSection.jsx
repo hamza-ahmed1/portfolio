@@ -10,9 +10,10 @@ export default function HeroSection() {
             Engineer
           </h1>
           <p className="hero--section-description">
-            Lorem ipsum dolor sit, amet consectetur adipisicing elit.
-            <br /> Dolorum, quas. Amet soluta assumenda cum?
-          </p>
+  I am a Software Engineer at MIF, providing innovative software and web-based solutions 
+  to help businesses achieve their goals and drive growth.
+  <br /> Let's transform your ideas into impactful digital experiences.
+</p>
         </div>
         <button className="btn btn-primary">Get In Touch</button>
       </div>

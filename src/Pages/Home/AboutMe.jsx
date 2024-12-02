@@ -9,15 +9,10 @@ export default function AboutMe() {
           <p className="section--title">About</p>
           <h1 className="skills-section--heading">About Me</h1>
           <p className="hero--section-description">
-            Lorem ipsum dolor sit amet consectetur adipisicing elit. Autem
-            officiis sit debitis omnis harum sed veniam quasi dicta accusamus
-            recusandae? Voluptatem, reprehenderit alias? Eligendi aperiam
-            tempora numquam sint odit optio.
+            Hi, I'm Hamza Ahmed Khan, a passionate software engineer with over 5 years of experience in building high-quality web applications. I graduated from FAST KHI and have honed my skills in various technologies to deliver robust and scalable solutions. I also completed a certification in web development from SMIT, where I expanded my expertise in modern web technologies.
           </p>
           <p className="hero--section-description">
-            Lorem ipsum dolor sit amet consectetur adipisicing elit. Autem
-            officiis sit debitis omnis harum sed veniam quasi dicta accusamus
-            recusandae?
+            Throughout my career, I've worked on a range of projects involving front-end and back-end development, UI/UX design, and cloud services. I am dedicated to creating seamless user experiences and providing efficient, innovative solutions to meet business needs.
           </p>
         </div>
       </div>

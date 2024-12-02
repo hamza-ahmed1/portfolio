@@ -1,77 +1,92 @@
 {
-  "skills": [
+"skills": [
     {
       "id": "1",
       "src": "./img/product-chain-1.png",
-      "title": "Front-End",
-      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspenmdisse varius eim in eros elementum tristique"
+      "title": "Front-End (React, Next.js)",
+      "description": "Building interactive and responsive user interfaces with React.js and Next.js.",
+      "category": "Front-End",
+      "price": "PKR 50,000 - 100,000"
     },
     {
       "id": "2",
       "src": "./img/tag-1.png",
-      "title": "Back-End",
-      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspenmdisse varius eim in eros elementum tristique"
+      "title": "Back-End (MERN, MEAN, .NET)",
+      "description": "Developing robust server-side applications with MongoDB, Express, Node.js, Angular, and .NET.",
+      "category": "Back-End",
+      "price": "PKR 60,000 - 120,000"
     },
     {
       "id": "3",
       "src": "./img/feather-pen-2.png",
-      "title": "UI & UX Design",
-      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspenmdisse varius eim in eros elementum tristique"
+      "title": "Full Stack (MERN, MEAN)",
+      "description": "End-to-end development with MongoDB, Express, React, Node.js, and Angular.",
+      "category": "Full Stack",
+      "price": "PKR 80,000 - 150,000"
     },
     {
       "id": "4",
       "src": "./img/feather-pen-1.png",
-      "title": "Webflow Development",
-      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspenmdisse varius eim in eros elementum tristique"
+      "title": "UI & UX Design",
+      "description": "Designing intuitive and user-friendly interfaces with a focus on user experience.",
+      "category": "Design",
+      "price": "PKR 40,000 - 80,000"
     }
   ],
   "portfolio": [
     {
       "id": "1",
-      "src": "./img/placeholder-image.png",
-      "title": "Ahuse",
-      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspenmdisse varius eim in eros elementum tristique",
+      "src": "/mnt/data/A_professional_business_website_interface_with_mod.png",
+      "title": "MIF Business Website",
+      "description": "Developed a business website for MIF, showcasing their services and offerings. The website includes a responsive design and seamless user experience.",
       "link": "View In Github"
     },
     {
       "id": "2",
-      "src": "./img/placeholder-image-1.png",
-      "title": "App Dashboard",
-      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspenmdisse varius eim in eros elementum tristique",
+      "src": "/mnt/data/A_learning_management_system_interface_showing_a_c.png",
+      "title": "MIF LMS",
+      "description": "Built a Learning Management System (LMS) for MIF, enabling students to access courses, assignments, and track their progress.",
       "link": "View In Github"
     },
     {
       "id": "3",
-      "src": "./img/placeholder-image-2.png",
-      "title": "Easy Rentn",
-      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspenmdisse varius eim in eros elementum tristique",
+      "src": "/mnt/data/A_digital_interface_for_attendance_management_system.png",
+      "title": "Attendance Management System",
+      "description": "Developed an Attendance Management System for MIF, allowing teachers and administrators to track student attendance efficiently.",
+      "link": "View In Github"
+    },
+    {
+      "id": "4",
+      "src": "./img/bonanza-closet.png",
+      "title": "BonanzaCloset eCommerce Store",
+      "description": "Created an eCommerce platform for BonanzaCloset, featuring a smooth shopping experience, product catalog, and secure payment system.",
+      "link": "View In Github"
+    },
+    {
+      "id": "5",
+      "src": "./img/fast-blog-app.png",
+      "title": "Full-stack Blog App for FAST",
+      "description": "Built a full-stack blog application for FAST students, featuring a user-friendly interface, dynamic content creation, and real-time updates.",
       "link": "View In Github"
     }
   ],
-  "testimonial": [
-    {
-      "id": "1",
-      "count": "5",
-      "src": "./img/avatar-image.png",
-      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspenmdisse varius eim in eros elementum tristique",
-      "author_name": "Dianne Russel",
-      "author_designation": "Starbucks"
-    },
-    {
-      "id": "2",
-      "count": "5",
-      "src": "./img/avatar-image-1.png",
-      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspenmdisse varius eim in eros elementum tristique",
-      "author_name": "Kristin Watson",
-      "author_designation": "Louis Vuitton"
-    },
-    {
-      "id": "3",
-      "count": "5",
-      "src": "./img/avatar-image-2.png",
-      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspenmdisse varius eim in eros elementum tristique",
-      "author_name": "Kathryn Murphy",
-      "author_designation": "McDonald's"
-    }
-  ]
+"testimonial": [
+  {
+    "id": "1",
+    "count": "5",
+    "src": "./img/avatar-image.png",
+    "description": "Hamza's work on our business website has been exceptional. The website's design is not only visually appealing but also highly functional and user-friendly. He has consistently delivered beyond our expectations.",
+    "author_name": "Intesar Farooqi",
+    "author_designation": "President of MIF"
+  },
+  {
+    "id": "2",
+    "count": "5",
+    "src": "./img/avatar-image-1.png",
+    "description": "Hamza's development of the BonanzaCloset eCommerce platform was a game-changer for our business. The seamless shopping experience, robust backend, and secure payment system have truly elevated our brand presence online.",
+    "author_name": "Shahzaib Rao",
+    "author_designation": "CEO of BonanzaCloset"
+  }
+]
+
 }
